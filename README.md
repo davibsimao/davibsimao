@@ -12,6 +12,7 @@ Tenho experiência com aplicações em ambiente de terminal, aplicando lógica d
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <a href="https://github.com/davibsimao">
@@ -19,15 +20,17 @@ Tenho experiência com aplicações em ambiente de terminal, aplicando lógica d
   </a>
 </p>
 
+
 ---
 
 ### 📬 Contato
 
 <p align="left">
-  <a href="mailto:contato.davbsimao@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.davibsimao@gmail.com">
     <img 
       width="30px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
+      alt="Email"
     />
   </a>
   <a href="https://www.linkedin.com/in/davi-sim%C3%A3o-5695023a6/">
@@ -39,14 +42,17 @@ Tenho experiência com aplicações em ambiente de terminal, aplicando lógica d
   </a>
 </p>
 
+
 ---
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
-    align="left" 
     height="200" 
     src="https://streak-stats.demolab.com?user=davibsimao&theme=tokyonight&locale=pt-br" 
+    alt="Estatísticas de contribuições do GitHub"
   />
 </p>
+
+
