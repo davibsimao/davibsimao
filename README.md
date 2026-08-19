@@ -54,9 +54,7 @@ Busco transformar conhecimento em prática através de projetos próprios e apre
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davibsimao&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false&point=ff9c00&bg_color=0D1117&color=ffffff&line=ff9c00&area_color=ff9c00&custom_title=Gráfico%20de%20contribuições?"/>
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davibsimao&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
