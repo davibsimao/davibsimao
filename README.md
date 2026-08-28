@@ -5,23 +5,23 @@
 ###
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e Desenvolvedor Backend em formação, com foco em **Java, Python e desenvolvimento de APIs**.
+Desenvolvedor Backend, com foco em **Java e desenvolvimento de APIs**.
 
-Tenho experiência prática com **Python + FastAPI**, **SQL/MySQL** e desenvolvimento de aplicações backend. Atualmente estou aprofundando meus conhecimentos em **Java**, trabalhando com **JDBC, MySQL, Flyway e testes unitários e de integração**.
+Trabalho com **Java + Spring Boot**, desenvolvendo APIs REST com arquitetura em camadas (Controller, Service, Repository), Spring Data JPA, JDBC, MySQL, Flyway e testes unitários e de integração. Também tenho experiência prática com **Python + FastAPI** e **SQL/MySQL** no desenvolvimento de aplicações backend.
 
 Também possuo conhecimentos em:
-
 - ☕ **Java** - POO, Collections, Generics e Streams
+- 🌱 **Spring Boot** - REST APIs, arquitetura em camadas, Spring Data JPA
 - 🐍 **Python + FastAPI** - desenvolvimento de APIs REST
 - 🗄️ **SQL / MySQL** - modelagem, relacionamentos e consultas
 - 🔌 **JDBC** - persistência e integração com banco de dados
+- 🔄 **Flyway** - versionamento e migração de banco de dados
 - 🐳 **Docker** - containers e ambientes de desenvolvimento
 - 🧪 **Testes unitários e de integração**
 - 🔧 **Git e GitHub**
 
-Atualmente, meu objetivo é ingressar na área de **Backend**, evoluindo principalmente no ecossistema **Java + Spring Boot** e aprofundando meus conhecimentos em APIs, bancos de dados e arquitetura de software.
+Busco oportunidades como **estagiário de desenvolvimento Backend**, para aplicar e evoluir meus conhecimentos em projetos reais.
 
-Busco transformar conhecimento em prática através de projetos próprios e aprendizado contínuo.
 
 ###
 
