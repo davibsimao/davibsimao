@@ -33,6 +33,10 @@ Busco constantemente aprimorar meus conhecimentos em CiÃªncia de Dados, InteligÃ
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" title="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" title="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow"/>
   <img src="https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" title="Machine Learning"/>
   <img src="https://img.shields.io/badge/Artificial_Intelligence-7B2CBF?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" title="Artificial Intelligence"/>
   <img src="https://img.shields.io/badge/Data_Science-168AAD?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" title="Data Science"/>
