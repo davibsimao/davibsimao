@@ -5,7 +5,7 @@
 ###
 ## 👨‍💻 Sobre mim
 
-Sou ** Estagiário em Ciência de Dados na Equatorial Energia**, atuando na área de **Perdas de Energia**, com foco no desenvolvimento de soluções utilizando Python, Machine Learning e Inteligência Artificial para identificação de fraudes, análise de dados e automação de processos.
+Sou **Estagiário em Ciência de Dados na Equatorial Energia**, atuando na área de **Perdas de Energia**, com foco no desenvolvimento de soluções utilizando Python, Machine Learning e Inteligência Artificial para identificação de fraudes, análise de dados e automação de processos.
 
 Trabalho com análise de dados e aplicação de tecnologias para identificar padrões suspeitos, detectar irregularidades e contribuir para a redução de perdas não técnicas de energia, apoiando a tomada de decisões e a otimização das operações.
 
