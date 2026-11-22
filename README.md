@@ -5,22 +5,24 @@
 ###
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Backend, com foco em **Java e desenvolvimento de APIs**.
+Sou **Cientista de Dados na Equatorial Energia**, atuando na área de **Perdas de Energia**, com foco no desenvolvimento de soluções utilizando Python, Machine Learning e Inteligência Artificial para identificação de fraudes, análise de dados e automação de processos.
 
-Trabalho com **Java + Spring Boot**, desenvolvendo APIs REST com arquitetura em camadas (Controller, Service, Repository), Spring Data JPA, JDBC, MySQL, Flyway e testes unitários e de integração. Também tenho experiência prática com **Python + FastAPI** e **SQL/MySQL** no desenvolvimento de aplicações backend.
+Trabalho com análise de dados e aplicação de tecnologias para identificar padrões suspeitos, detectar irregularidades e contribuir para a redução de perdas não técnicas de energia, apoiando a tomada de decisões e a otimização das operações.
 
-Também possuo conhecimentos em:
-- ☕ **Java** - POO, Collections, Generics e Streams
-- 🌱 **Spring Boot** - REST APIs, arquitetura em camadas, Spring Data JPA
-- 🐍 **Python + FastAPI** - desenvolvimento de APIs REST
-- 🗄️ **SQL / MySQL** - modelagem, relacionamentos e consultas
-- 🔌 **JDBC** - persistência e integração com banco de dados
-- 🔄 **Flyway** - versionamento e migração de banco de dados
-- 🐳 **Docker** - containers e ambientes de desenvolvimento
-- 🧪 **Testes unitários e de integração**
-- 🔧 **Git e GitHub**
+Também possuo conhecimentos em desenvolvimento Backend, utilizando Java, Spring Boot e SQL, com construção de APIs REST e integração com bancos de dados.
 
-Busco oportunidades como **estagiário de desenvolvimento Backend**, para aplicar e evoluir meus conhecimentos em projetos reais.
+### 🧠 Principais conhecimentos
+
+- 🐍 **Python** - desenvolvimento de soluções e automação de processos
+- 🤖 **Machine Learning** - identificação de padrões e detecção de irregularidades
+- 🧠 **Inteligência Artificial** - aplicação de soluções inteligentes
+- 📊 **Ciência de Dados** - análise e interpretação de dados
+- 🗄️ **SQL / MySQL** - consultas, modelagem e manipulação de dados
+- ☕ **Java** - programação orientada a objetos
+- 🌱 **Spring Boot** - desenvolvimento de APIs REST
+- 🔧 **Git e GitHub** - versionamento de código
+
+Busco constantemente aprimorar meus conhecimentos em Ciência de Dados, Inteligência Artificial e desenvolvimento de software, aplicando tecnologia na resolução de problemas reais.
 
 
 ###
