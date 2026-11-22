@@ -28,18 +28,33 @@ Busco constantemente aprimorar meus conhecimentos em Ciência de Dados, Intelig�
 ###
 
 ## 💻 Tecnologias
-<p>Principais tecnologias:</p>
+
+<p>Principais tecnologias e ferramentas:</p>
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" title="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-7B2CBF?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" title="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Data_Science-168AAD?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" title="Data Science"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL"/>
+  <img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Automation" title="Automation"/>
+</div>
+
+### ⚙️ Desenvolvimento Backend
+
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" title="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" title="Spring Boot"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI"/>
-  <img src="https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDBC" title="JDBC"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" title="JSON Web Tokens"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL" title="SQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker"/>
+  <img src="https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" title="JDBC"/>
   <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" title="Flyway"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker"/>
+</div>
+
+### 🔧 Ferramentas
+
+<div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/>
 </div>
